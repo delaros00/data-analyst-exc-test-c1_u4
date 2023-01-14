@@ -1,2 +1,2 @@
-# data-analyst-exc-test-c1_u4
+# Example of README.md
 data analyst exc test c1_u4
